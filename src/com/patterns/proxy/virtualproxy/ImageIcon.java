@@ -1,4 +1,4 @@
-package com.patterns.proxy.virtual_proxy;
+package com.patterns.proxy.virtualproxy;
 
 import java.awt.*;
 import java.net.URL;
